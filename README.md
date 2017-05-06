@@ -1,5 +1,7 @@
 # Simple Puzzle
 ----
+https://wjwang.github.io/simple-puzzle/
+
 ```
 git clone 
 
